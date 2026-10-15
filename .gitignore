@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+.venv/.gitignore
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# PyCharm / JetBrains
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# pytest
+.pytest_cache/
+.cache/
+
+# Environment files (do not commit secrets)
+.env
+
+# Logs and reports
+*.log
+reports/
+responsive-report.html
+
+# Screenshots and temporary artifacts
+screenshots/
+melbournetadev/screenshots/
+
+# OS files
+.DS_Store
+Thumbs.db
+

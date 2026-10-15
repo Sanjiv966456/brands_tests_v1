@@ -1,0 +1,28 @@
+{
+  "base_url": "https://alexandriaadev.wpenginepowered.com/brands/",
+  "brand_count": 15,
+  "brands": [
+    {"name": "Audi", "slug": "audi-service"},
+    {"name": "BMW / Mini", "slug": "bmw-service"},
+    {"name": "Ford", "slug": "ford-service"},
+    {"name": "Honda", "slug": "honda-service"},
+    {"name": "Hyundai", "slug": "hyundai-service"},
+    {"name": "Land Rover", "slug": "land-rover-service"},
+    {"name": "Lexus", "slug": "lexus-service"},
+    {"name": "Mazda", "slug": "mazda-service"},
+    {"name": "Mercedes", "slug": "mercedes-service"},
+    {"name": "Mitsubishi", "slug": "mitsubishi-service"},
+    {"name": "Nissan", "slug": "nissan-service"},
+    {"name": "Volvo", "slug": "volvo-service"},
+    {"name": "VW / Skoda", "slug": "vw-service"},
+    {"name": "Toyota", "slug": "toyota-service"},
+    {"name": "Subaru", "slug": "subaru-service"}
+  ],
+  "viewports": [
+    {"name": "desktop_large", "width": 1920, "height": 1080},
+    {"name": "desktop", "width": 1366, "height": 768},
+    {"name": "tablet", "width": 768, "height": 1024},
+    {"name": "mobile", "width": 390, "height": 844}
+  ],
+  "search_terms": []
+}
